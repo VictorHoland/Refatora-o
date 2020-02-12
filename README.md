@@ -10,7 +10,7 @@ AdmMenu.java antes:
 https://github.com/VictorHoland/Java-POO/blob/master/AdmMenu.java
 
 
-No #3 eu removi código inútil da FuncaoAux.
+No #3 eu removi código inútil da FuncaoAux #2.
 
 FuncaoAux.java antes:
 https://github.com/VictorHoland/Refatora-o/blob/master/AdmMenu.parte2.%232
